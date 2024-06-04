@@ -1,0 +1,12 @@
+body {
+    background-image: url(homepage.jpeg);
+}
+
+.breite {
+    width: 300px;
+}
+
+.text {
+    color: grey;
+    font-family: 'Comfortaa', cursive;
+}
